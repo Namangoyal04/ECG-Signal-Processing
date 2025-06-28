@@ -1,1 +1,4 @@
 # ECG-Signal-Processing
+Introduction:
+Electrocardiography (ECG) is a fundamental diagnostic tool used to record the electrical activity of the heart. It plays a crucial role in detecting and monitoring various cardiac conditions, including arrhythmias, coronary artery disease, and heart attacks. This underscores the importance of reliable ECG analysis for early detection and treatment of heart conditions.
+ECG signals are typically very weak, with amplitudes in the range of 5 mV or lower. Due to this low signal strength, amplification is necessary to make the signal interpretable. However, ECG recordings are also highly susceptible to noise from various sources, such as power line interference, baseline wander, and muscle artifacts. Effective signal processing is required to filter out these disturbances and extract meaningful information from the ECG waveform.
