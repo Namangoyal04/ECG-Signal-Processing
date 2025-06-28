@@ -59,7 +59,8 @@ In this task, a synthetic ECG signal was generated along with various noise comp
 #### By combining these filters, we achieve a clean ECG signal that retains the necessary features for medical analysis while eliminating common noise sources.
 
 ## Final Cascaded Circuit 
-![Screenshot 2025-06-28 223353](https://github.com/user-attachments/assets/9bf3b7b4-d8df-45c9-a03c-99dd4c3e3f8d)
+![Screenshot 2025-06-28 235912](https://github.com/user-attachments/assets/360913be-d951-40d9-9fee-74581687f5a1)
+
 
 ## Waveforms
 ### INPUT SIGNAL (in mV):
