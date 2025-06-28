@@ -26,7 +26,7 @@ In this task, a synthetic ECG signal was generated along with various noise comp
 
 ## 2.Noise Addition to ECG Signal 
 * **Power Line Interference (50/60 Hz,0.5mV)**: This noise, primarily caused by electromagnetic interference from electrical devices, generally falls within the range of 50 Hz (Europe, Asia) or 60 Hz (North America),with amplitude less than 1mv. A Notch Filter was later used to remove this interference.
-* **Baseline Wander (0.1–0.5 Hz,0.2mV)**: Low-frequency drift resulting from respiration and patient movement. In our case, we subjected these noises to ECG wave to meet real word conditions using sin wave sources with frequency and amplitude matching with the frwquencies of noises mentioned . A Third-Order High-Pass Filter was implemented to eliminate this effect.
+* **Baseline Wander (0.1–0.5 Hz,0.2mV)**: Low-frequency drift resulting from respiration and patient movement. In our case, we subjected these noises to ECG wave to meet real word conditions using sin wave sources with frequency and amplitude matching with the frequencies of noises mentioned . A Third-Order High-Pass Filter was implemented to eliminate this effect.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8b9e381b-2820-4530-88f0-d7cbae6c4688" 
        alt="Screenshot 2025-06-28 154723" 
