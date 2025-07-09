@@ -38,7 +38,7 @@ In this task, a synthetic ECG signal was generated along with various noise comp
 * It provides high gain and high common-mode rejection ratio (CMRR).
 * It amplifies small differential signals (e.g., ECG signals from the body).
 * An inverting op-amp of unity gain is also cascaded to invert the output.
-* Gain= (1+ 2R2/R1)*(R4/R3), here gain =600, input in range of mV
+* Gain= (1+ R2/R1)*(R4/R3), here gain =600, input in range of mV
 
 ### B. Notch Filter (50/60 Hz)
 * Purpose: Removes power line interference caused by electrical sources 
